@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "viewProjects": "View Projects",
+    "downloadResume": "Download Resume",
+    "featuredProjects": "Featured Projects",
+    "viewAllProjects": "View All Projects",
+    "ctaTitle": "Let's work together",
+    "ctaDescription": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
+    "getInTouch": "Get in Touch"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "A collection of my work, experiments, and side projects. Each one represents a journey of learning and problem-solving.",
+    "search": "Search projects...",
+    "all": "All",
+    "featured": "Featured",
+    "noResults": "No projects found matching your filters.",
+    "clearFilters": "Clear Filters"
+  },
+  "about": {
+    "title": "About Me",
+    "skillsTitle": "Skills & Expertise",
+    "timelineTitle": "Experience & Education"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Have a project in mind or just want to say hello? I'd love to hear from you. Fill out the form below and I'll get back to you as soon as possible.",
+    "formTitle": "Send a Message",
+    "formDescription": "I'll respond within 2 business days",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message sent successfully!",
+    "successDescription": "Thank you for reaching out. I'll get back to you soon.",
+    "location": "Location",
+    "social": "Social"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Thoughts on software development, technology, and lessons learned along the way.",
+    "noPosts": "No blog posts yet. Check back soon!",
+    "backToBlog": "Back to Blog"
+  },
+  "footer": {
+    "description": "Software Engineer building fast, accessible web applications.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "copyright": "All rights reserved."
+  }
+}
+

@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Mga Proyekto",
+    "about": "Tungkol",
+    "blog": "Blog",
+    "contact": "Makipag-ugnayan"
+  },
+  "home": {
+    "greeting": "Kamusta, ako si",
+    "viewProjects": "Tingnan ang mga Proyekto",
+    "downloadResume": "I-download ang Resume",
+    "featuredProjects": "Mga Pangunahing Proyekto",
+    "viewAllProjects": "Tingnan Lahat ng Proyekto",
+    "ctaTitle": "Magtulungan tayo",
+    "ctaDescription": "Laging bukas ako sa pagtalakay ng mga bagong proyekto, malikhain na ideya, o pagkakataon na maging bahagi ng inyong mga pangarap.",
+    "getInTouch": "Makipag-ugnayan"
+  },
+  "projects": {
+    "title": "Mga Proyekto",
+    "description": "Koleksyon ng aking trabaho, eksperimento, at side projects. Bawat isa ay kumakatawan sa isang paglalakbay ng pag-aaral at paglutas ng problema.",
+    "search": "Maghanap ng proyekto...",
+    "all": "Lahat",
+    "featured": "Tampok",
+    "noResults": "Walang proyektong natagpuan na tumutugma sa inyong filter.",
+    "clearFilters": "I-clear ang mga Filter"
+  },
+  "about": {
+    "title": "Tungkol sa Akin",
+    "skillsTitle": "Mga Kasanayan at Kahusayan",
+    "timelineTitle": "Karanasan at Edukasyon"
+  },
+  "contact": {
+    "title": "Makipag-ugnayan",
+    "description": "May proyekto ba sa isip o gusto lang magkamusta? Gusto kong marinig ka. Punan ang form sa ibaba at babalikan kita sa lalong madaling panahon.",
+    "formTitle": "Magpadala ng Mensahe",
+    "formDescription": "Tutugon ako sa loob ng 2 araw ng negosyo",
+    "name": "Pangalan",
+    "email": "Email",
+    "message": "Mensahe",
+    "send": "Ipadala ang Mensahe",
+    "sending": "Ipinapadala...",
+    "successTitle": "Matagumpay na naipadala ang mensahe!",
+    "successDescription": "Salamat sa pakikipag-ugnayan. Babalikan kita sa lalong madaling panahon.",
+    "location": "Lokasyon",
+    "social": "Social"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Mga kaisipan tungkol sa software development, teknolohiya, at mga natutunan sa daan.",
+    "noPosts": "Wala pang blog posts. Bumalik muli!",
+    "backToBlog": "Bumalik sa Blog"
+  },
+  "footer": {
+    "description": "Software Engineer na gumagawa ng mabilis at accessible na web applications.",
+    "quickLinks": "Mabilis na mga Link",
+    "connect": "Kumonekta",
+    "copyright": "Lahat ng karapatan ay nakalaan."
+  }
+}
+

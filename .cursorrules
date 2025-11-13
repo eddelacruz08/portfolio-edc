@@ -1,0 +1,52 @@
+# Cursor Rules for Portfolio EDC
+
+## Project Overview
+Modern portfolio website built with Next.js 15, TypeScript, Tailwind CSS v4, and shadcn/ui components.
+
+## Code Style
+- Use TypeScript for all new files
+- Prefer functional components with hooks
+- Use 'use client' directive for client-side components
+- Follow ESLint rules (no unescaped entities, etc.)
+- Use proper React patterns (avoid setState in useEffect body)
+
+## Component Guidelines
+- Place reusable components in `/components`
+- Use shadcn/ui components from `/components/ui`
+- Always include proper TypeScript types
+- Add accessibility attributes (aria-labels, roles, etc.)
+- Support dark mode with theme-aware styling
+
+## Animation Guidelines
+- Use Framer Motion for complex animations
+- Always respect `usePrefersReducedMotion` hook
+- Keep animations subtle and purposeful
+- Use Tailwind transitions for simple hover effects
+
+## Data Fetching
+- Use TanStack Query hooks from `/hooks/use-api.ts`
+- Always provide mock data fallbacks
+- Handle loading and error states
+
+## Styling
+- Use Tailwind CSS utility classes
+- Follow shadcn/ui patterns for consistency
+- Support light and dark modes
+- Ensure WCAG 2.1 AA compliance
+
+## Testing
+- Run `npm run lint` before committing
+- Build with `npm run build` to catch TypeScript errors
+- Test on mobile and desktop viewports
+- Verify accessibility with browser DevTools
+
+## File Naming
+- Use kebab-case for files: `my-component.tsx`
+- Use PascalCase for components: `MyComponent`
+- Use camelCase for utilities: `myUtilFunction`
+
+## Git Workflow
+- Use conventional commits (feat:, fix:, docs:, etc.)
+- Keep commits focused and atomic
+- Update documentation when adding features
+
