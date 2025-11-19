@@ -6,6 +6,7 @@ import { QueryProvider } from "@/providers/query-provider";
 import { ThemeProvider } from "@/providers/theme-provider";
 import { Nav } from "@/components/nav";
 import { Footer } from "@/components/footer";
+import LetterGlitch from "@/components/LetterGlitch";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -41,6 +42,12 @@ export default function RootLayout({
       >
         <ThemeProvider>
           <QueryProvider>
+            <LetterGlitch
+              glitchSpeed={50}
+              centerVignette={true}
+              outerVignette={false}
+              smooth={true}
+            />
             <div className="relative flex min-h-screen flex-col">
               <Nav />
               <main className="flex-1">{children}</main>
